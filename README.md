@@ -8,6 +8,8 @@ DIY bluetooth speaker with mounted arc reactor style, includes led theme as spea
 
 A DIY 360° Bluetooth speaker with a custom Arc Reactor mounted at the center. Built as a hardware project.
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c58b69a0-6b43-49a9-a9db-ab7b74b8a190" />
+
 ---
 
 ## What it does
